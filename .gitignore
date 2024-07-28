@@ -3,4 +3,5 @@ debian/debhelper-build-stamp
 debian/files
 debian/berb-apt-keyrings.substvars
 debian/berb-apt-keyrings/
+out-berb-apt-keyrings/
 
