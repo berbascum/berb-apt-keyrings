@@ -1,0 +1,7 @@
+berb-apt-keyrings (0.0.1+git20240728122230.19f2154.stable) stable; urgency=medium
+
+  [berbascum]
+  * (19f2154) Add the Debian packaging dir 
+  * (548f2f0) Add pkg_rootfs with the files to be installed 
+
+ -- berbascum <berbascum@ticv.cat>  Sun, 28 Jul 2024 12:22:30 +0200
