@@ -1,2 +1,2 @@
-/usr/share/berb-apt-config/trusted.gpg.d
+/usr/share/keyrings
 /etc/apt/trusted.gpg.d
