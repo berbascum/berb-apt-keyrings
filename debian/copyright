@@ -1,6 +1,6 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: berb-apt-keyrings
-Source: https://github.com/berbascum/berb-apt-config-keyrings
+Source: https://github.com/berbascum/berb-apt-keyrings
 
 Files: *
 Copyright: 2024 berbascum <berbascum@ticv.cat>
