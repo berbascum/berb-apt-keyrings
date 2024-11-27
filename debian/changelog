@@ -1,11 +1,10 @@
-berb-apt-keyrings (0.0.2+git20240728134014.3dd5875.stable) stable; urgency=medium
+berb-apt-keyrings (0.0.3+git20241127085109.5361767.stable) stable; urgency=medium
 
   [berbascum]
+  * (5361767) (gpg) pubkey: update the public key 
+  * (c1e0f63) (packaging) copyright: fix the Source url 
+  * (a8fe133) Build release: pre-configs before building new version 0.0.2-stable 
   * (3dd5875) Fix packaging: install scripts names fixed 
   * (25e21b3) Update .gitignore 
-  * (9f7d1c3) Update the keyring installation path 
-  * (b2b64a4) Build release: pre-configs before building new version 0.0.1-stable 
-  * (19f2154) Add the Debian packaging dir 
-  * (548f2f0) Add pkg_rootfs with the files to be installed 
 
- -- berbascum <berbascum@ticv.cat>  Sun, 28 Jul 2024 13:40:14 +0200
+ -- berbascum <berbascum@ticv.cat>  Wed, 27 Nov 2024 08:51:09 +0100
