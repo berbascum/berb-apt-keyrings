@@ -1,4 +1,4 @@
-Source: berb-apt-keyrings
+Source: apt-keyrings-berbascum
 Maintainer: berbascum <berbascum@ticv.cat>
 Section: misc
 Priority: optional
@@ -6,7 +6,7 @@ Build-Depends: debhelper (>= 10),
                debhelper-compat (= 13),
 Standards-Version: 4.5.0.3
 
-Package: berb-apt-keyrings
+Package: apt-keyrings-berbascum
 Architecture: all
 Pre-Depends: apt,
 Depends: ${misc:Depends},

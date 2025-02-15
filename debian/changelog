@@ -1,4 +1,4 @@
-berb-apt-keyrings (0.0.3+git20241127085109.5361767.stable) stable; urgency=medium
+apt-keyrings-berbascum (0.0.3+git20241127085109.5361767.stable) stable; urgency=medium
 
   [berbascum]
   * (5361767) (gpg) pubkey: update the public key 

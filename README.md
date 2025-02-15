@@ -1,1 +1,1 @@
-# berb-apt-keyrings
+# apt-keyrings-berbascum
