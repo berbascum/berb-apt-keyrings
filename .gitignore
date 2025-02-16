@@ -1,7 +1,8 @@
 debian/.debhelper/
 debian/debhelper-build-stamp
 debian/files
-debian/berb-apt-keyrings.substvars
-debian/berb-apt-keyrings/
-out-berb-apt-keyrings/
-
+bdm-script-spl-build-debian-package.sh
+bdm_build-debian-package.log
+debian/apt-keyrings-berbascum.substvars
+debian/apt-keyrings-berbascum/
+out-apt-keyrings-berbascum/
